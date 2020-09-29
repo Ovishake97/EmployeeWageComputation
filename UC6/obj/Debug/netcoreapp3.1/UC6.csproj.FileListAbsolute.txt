@@ -1,0 +1,4 @@
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageComputation\UC6\obj\Debug\netcoreapp3.1\UC6.csprojAssemblyReference.cache
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageComputation\UC6\obj\Debug\netcoreapp3.1\UC6.AssemblyInfoInputs.cache
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageComputation\UC6\obj\Debug\netcoreapp3.1\UC6.AssemblyInfo.cs
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageComputation\UC6\obj\Debug\netcoreapp3.1\UC6.csproj.CoreCompileInputs.cache
