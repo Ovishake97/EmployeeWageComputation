@@ -1,0 +1,13 @@
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\obj\Debug\netcoreapp3.1\EmployeeWageV2.csprojAssemblyReference.cache
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\obj\Debug\netcoreapp3.1\EmployeeWageV2.AssemblyInfoInputs.cache
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\obj\Debug\netcoreapp3.1\EmployeeWageV2.AssemblyInfo.cs
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\obj\Debug\netcoreapp3.1\EmployeeWageV2.csproj.CoreCompileInputs.cache
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\bin\Debug\netcoreapp3.1\EmployeeWageV2.exe
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\bin\Debug\netcoreapp3.1\EmployeeWageV2.deps.json
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\bin\Debug\netcoreapp3.1\EmployeeWageV2.runtimeconfig.json
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\bin\Debug\netcoreapp3.1\EmployeeWageV2.runtimeconfig.dev.json
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\bin\Debug\netcoreapp3.1\EmployeeWageV2.dll
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\bin\Debug\netcoreapp3.1\EmployeeWageV2.pdb
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\obj\Debug\netcoreapp3.1\EmployeeWageV2.dll
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\obj\Debug\netcoreapp3.1\EmployeeWageV2.pdb
+C:\Users\abhishek\Desktop\Practice Problem\EmployeeWageV2\EmployeeWageV2\obj\Debug\netcoreapp3.1\EmployeeWageV2.genruntimeconfig.cache
